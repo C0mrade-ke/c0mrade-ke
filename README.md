@@ -1,6 +1,6 @@
-Cyberlcome,I’m c0mrade-ke  
+# 👾 Welcome,I’m c0mrade-ke  
 
-<!-- typing banner: stable font + fixed width to avoid jumbled letters ----![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=900&center=true&vCenter=true&width=700&lines=Self-taught+Developer+%E2%9A%A1;Cyberecurity+Enthusiast+%F0%9F%94%90;Breaking+Limits+%F0%9F%92%BB;Always+Learning+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00FF00&center=true&vCenter=true&lines=Self+taught+Developer+⚡;Cyber+Security+Enthusiast+🔐;Breaking+Limits+💻;Always+Learning+🚀)
 
 ---
 
