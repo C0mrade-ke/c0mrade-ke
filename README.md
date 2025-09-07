@@ -66,5 +66,5 @@
 ---
 
 <p align="center">  
-   ⚡ “Code. Hack. Secure. Repeat.” ⚡  
+   ⚡ Breaking limits. Building security. c0mrade-ke. ⚡  
 </p>
