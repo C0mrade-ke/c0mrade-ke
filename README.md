@@ -1,7 +1,6 @@
 # 👾 Welcome, I’m c0mrade-ke ♛
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=4000&color=00FF00&center=true&vCenter=true&width=550&lines=Self+taught+Developer+⚡;Cyber+Security+Enthusiast+🔐;Breaking+Limits+💻;Always+Learning+🚀;Rap+Vibes+🎤" alt="Animated Typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=4000&color=00FF00&center=true&vCenter=true&width=500&lines=Self+taught+Developer+⚡;Cyber+Security+Enthusiast+🔐;Breaking+Limits+💻;Always+Learning+🚀" alt="Animated Typing"/>
 </p>
 
 ---
@@ -11,7 +10,6 @@
 - 💻 Passionate about ethical hacking & problem solving  
 - 🔥 Breaking, building & perfecting systems  
 - 🌍 Exploring security tools, exploits & open source  
-- 🎧 Fueled by rap beats & coding rhythms
 
 ---
 
@@ -47,32 +45,18 @@
 
 ---
 
-### 🎤 **Coding Soundtrack - Rap Edition**
+### 🔥 **Cyber Snake - Live Attack Simulation**  
 <p align="center">
-  <img src="https://img.shields.io/badge/Eminem-%23000000.svg?style=for-the-badge&logo=eminem&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kendrick%20Lamar-%23000000.svg?style=for-the-badge&logo=kendrick-lamar&logoColor=white"/>
-  <img src="https://img.shields.io/badge/J.%20Cole-%23000000.svg?style=for-the-badge&logo=j-cole&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NF-%23000000.svg?style=for-the-badge&logo=nf&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Logic-%23000000.svg?style=for-the-badge&logo=logic&logoColor=white"/>
+  <img src="https://raw.githubusercontent.com/c0mrade-ke/c0mrade-ke/output/github-contribution-grid-snake.svg" alt="cyber snake" />
 </p>
 
-**Top Coding Anthems:**
-- "Lose Yourself" - Eminem (for focus sessions)
-- "HUMBLE." - Kendrick Lamar (for debugging energy)
-- "No Role Modelz" - J. Cole (for late nights)
-- "The Search" - NF (for problem solving)
-- "1-800-273-8255" - Logic (for deep work)
+
 
 ---
 
-### 🐍 **Contribution Snake**  
-![Snake animation](https://github.com/c0mrade-ke/c0mrade-ke/blob/output/github-contribution-grid-snake.svg)
-
----
-
-### 🎵 **Now Playing - Rap Mode**
+### 🎵 **Now Playing**  
 <p align="center">
-  <a href="https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd">
+  <a href="https://open.spotify.com/playlist/3Opwx6er4kIzNTg1v5IpP3">
     <img src="https://spotify-now-playing-readme.vercel.app/api/spotify?background_color=000000&border_color=00ff00&text_color=00ff00" alt="Spotify Now Playing"/>
   </a>
 </p>
@@ -94,7 +78,9 @@
 
 ---
 <p align="center">  
-   <strong>⚡ Breaking limits with rap beats & code .♛c0mrade-ke. ⚡</strong>  
+   <strong>⚡ Breaking limits .♛c0mrade-ke. ⚡</strong>  
 </p>
 
-![GitHub Footer](https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=footer&text=Keep%20Coding%20Keep%20Vibing&fontSize=20&fontColor=000000)
+![Hacker Footer](https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=footer&text=System+Secure+%7C+Code+Active&fontSize=20&fontColor=000000)
+
+  
