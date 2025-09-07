@@ -9,7 +9,7 @@
 - 🧑‍💻 Self-taught developer  
 - ⚡ Passionate about tech & problem solving  
 - 🚀 Always exploring new stacks  
-- 🎯 Building, breaking, and perfecting apps  
+- 🎯 Building, breaking, and perfecting  
 
 ---
 
@@ -25,10 +25,9 @@
 
 ---
 
-### 🐍 Contribution Snake  
-![Snake animation](https://github.com/c0mrade-ke/c0mrade-ke/blob/output/github-contribution-grid-snake.svg)  
-
----
+### ### 🔥 Hacking the Mainframe...
+  
+![Hacker Terminal](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=27F736&background=000000&center=true&vCenter=true&width=500&height=30&lines=Accessing+GitHub+API...;Initializing+hack+sequence...;Firewall+bypassed+✅;Brute+force+encryption...;Root+access+granted+🎯;Hello+World!app---
 
 ⭐ From [c0mrade-ke](https://github.com/c0mrade-ke)
 
