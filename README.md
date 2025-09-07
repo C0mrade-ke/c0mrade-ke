@@ -1,27 +1,29 @@
-# 👾 Welcome, I’m c0mrade-ke  
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=00FF00&center=true&vCenter=true&lines=Self+taught+Developer+⚡;Cyber+Security+Enthusiast+🔐;Breaking+Limits+💻;Always+Learning+🚀)
-
----
-
-## 🧑‍💻 About Me  
-- 🚀 Self-taught developer & cybersecurity learner  
-- 💻 Passionate about ethical hacking & problem solving  
-- 🔥 Breaking, building & perfecting systems  
-- 🌍 Exploring security tools, exploits & open source  
-
----
-
-## 📊 My GitHub Stats  
+# 👾 Welcome, I’m c0mrade-ke ♛
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=c0mrade-ke&show_icons=true&theme=chartreuse-dark" alt="stats" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=c0mrade-ke&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D" alt="streak" height="180"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=4000&color=00FF00&center=true&vCenter=true&width=550&lines=Self+taught+Developer+⚡;Cyber+Security+Enthusiast+🔐;Breaking+Limits+💻;Always+Learning+🚀;Rap+Vibes+🎤" alt="Animated Typing"/>
 </p>
 
 ---
 
-## 🛠️ Cybersecurity Tech Stack  
+### 🧑‍💻 **About Me**  
+- 🚀 Self-taught developer & cybersecurity learner  
+- 💻 Passionate about ethical hacking & problem solving  
+- 🔥 Breaking, building & perfecting systems  
+- 🌍 Exploring security tools, exploits & open source  
+- 🎧 Fueled by rap beats & coding rhythms
+
+---
+
+### 📊 **My GitHub Stats**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=c0mrade-ke&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000&text_color=00FF00&icon_color=00FF00&title_color=00FF00" alt="stats" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=c0mrade-ke&theme=chartreuse-dark&hide_border=true&background=00000000&dates=00FF00&fire=00FF00&ring=00FF00&currStreakLabel=00FF00" alt="streak" width="48%"/>
+</p>
+
+---
+
+### 🛠️ **Cybersecurity Tech Stack**  
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
@@ -32,7 +34,7 @@
 
 ---
 
-## 🐧 Linux & Security Tools  
+### 🐧 **Linux & Security Tools**  
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
@@ -45,12 +47,39 @@
 
 ---
 
-## 🐍 Contribution Snake  
-![Snake animation](https://github.com/c0mrade-ke/c0mrade-ke/blob/output/github-contribution-grid-snake.svg)  
+### 🎤 **Coding Soundtrack - Rap Edition**
+<p align="center">
+  <img src="https://img.shields.io/badge/Eminem-%23000000.svg?style=for-the-badge&logo=eminem&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kendrick%20Lamar-%23000000.svg?style=for-the-badge&logo=kendrick-lamar&logoColor=white"/>
+  <img src="https://img.shields.io/badge/J.%20Cole-%23000000.svg?style=for-the-badge&logo=j-cole&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NF-%23000000.svg?style=for-the-badge&logo=nf&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Logic-%23000000.svg?style=for-the-badge&logo=logic&logoColor=white"/>
+</p>
+
+**Top Coding Anthems:**
+- "Lose Yourself" - Eminem (for focus sessions)
+- "HUMBLE." - Kendrick Lamar (for debugging energy)
+- "No Role Modelz" - J. Cole (for late nights)
+- "The Search" - NF (for problem solving)
+- "1-800-273-8255" - Logic (for deep work)
 
 ---
 
-## 🔗 Connect With Me  
+### 🐍 **Contribution Snake**  
+![Snake animation](https://github.com/c0mrade-ke/c0mrade-ke/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 🎵 **Now Playing - Rap Mode**
+<p align="center">
+  <a href="https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd">
+    <img src="https://spotify-now-playing-readme.vercel.app/api/spotify?background_color=000000&border_color=00ff00&text_color=00ff00" alt="Spotify Now Playing"/>
+  </a>
+</p>
+
+---
+
+### 🔗 **Connect With Me**  
 <p align="center">
   <a href="https://twitter.com/___C0mrade" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
@@ -64,7 +93,8 @@
 </p>
 
 ---
-
 <p align="center">  
-   ⚡ Breaking limits. Building security. c0mrade-ke. ⚡  
+   <strong>⚡ Breaking limits with rap beats & code .♛c0mrade-ke. ⚡</strong>  
 </p>
+
+![GitHub Footer](https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=footer&text=Keep%20Coding%20Keep%20Vibing&fontSize=20&fontColor=000000)
