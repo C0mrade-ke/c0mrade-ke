@@ -1,6 +1,6 @@
-# 👾 Welcome,I’m c0mrade-ke  
+# 👾 Welcome, I’m c0mrade-ke  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00FF00&center=true&vCenter=true&lines=Self+taught+Developer+⚡;Cyber+Security+Enthusiast+🔐;Breaking+Limits+💻;Always+Learning+🚀)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=00FF00&center=true&vCenter=true&lines=Self+taught+Developer+⚡;Cyber+Security+Enthusiast+🔐;Breaking+Limits+💻;Always+Learning+🚀)
 
 ---
 
