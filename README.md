@@ -1,6 +1,7 @@
-# 👾 Welcome, I’m c0mrade-ke  
+# 👾 Welcome,I’m c0mrade-ke  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00FF00&center=true&vCenter=true&lines=Self+taught+developer+⚡;Cybersecurity+EnthuCybersecurityking+limits+💻;Always+learning+🚀)
+<!-- typing banner: stable font + fixed width to avoid jumbled letters -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=900&center=true&vCenter=true&width=700&lines=Self-taught+Developer+%E2%9A%A1;Cyber+Security+Enthusiast+%F0%9F%94%90;Breaking+Limits+%F0%9F%92%BB;Always+Learning+%F0%9F%9A%80)
 
 ---
 
@@ -32,6 +33,19 @@
 
 ---
 
+## 🐧 Linux & Security Tools  
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-004A88?style=for-the-badge&logo=nmap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-3C8DBC?style=for-the-badge&logo=metasploit&logoColor=white"/>
+</p>
+
+---
+
 ## 🐍 Contribution Snake  
 ![Snake animation](https://github.com/c0mrade-ke/c0mrade-ke/blob/output/github-contribution-grid-snake.svg)  
 
@@ -39,6 +53,9 @@
 
 ## 🔗 Connect With Me  
 <p align="center">
+  <a href="https://twitter.com/___C0mrade" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
   <a href="https://www.instagram.com/mweshimiwa_.ke?igsh=MWpoYXU2YjFxZXN1Mg==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram%20(1)-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
