@@ -15,13 +15,12 @@
 ---
 
 ### 📊 **My GitHub Stats**  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=c0mrade-ke&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000&text_color=00FF00&icon_color=00FF00&title_color=00FF00" alt="stats" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=c0mrade-ke&theme=chartreuse-dark&hide_border=true&background=00000000&dates=00FF00&fire=00FF00&ring=00FF00&currStreakLabel=00FF00" alt="streak" width="48%"/>
+  ![c0mrade's GitHub stats](https://github-readme-stats.vercel.app/api?username=c0mrade-Ke&show_icons=true&theme=gruvbox)
 </p>
 
 ---
-
+  ![profileViews](https://en3zcgi7b3erui3.m.pipedream.net/?username=c0mrade-Ke)         
+---
 ### 🛠️ **Cybersecurity Tech Stack**  
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
