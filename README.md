@@ -9,7 +9,7 @@
 ---
 
 ### 🧑‍💻 **About Me**  
--🏫 Currently studying
+- 🏫 Currently studying
 - 🚀 Aspiring developer & cybersecurity learner  
 - 💻 Passionate about ethical hacking & problem solving  
 - 🔥 Breaking, building & perfecting systems  
