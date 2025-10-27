@@ -1,12 +1,13 @@
 # 👾 Welcome, I’m c0mrade-ke ♛
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=4000&color=00FF00&center=true&vCenter=true&width=500&lines=Self+taught+Developer+⚡;Cyber+Security+Enthusiast+🔐;Breaking+Limits+💻;Always+Learning+🚀" alt="Animated Typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Anonymous+Pro+&size=28&duration=6400&color=00FF00&center=true&vCenter=true&width=800&lines=Hey+there+👋+☻+;I'm+c0mrade+;+Aspiring+Developer+ツ+⚡;Cyber+Security+Enthusiast+🔐;Breaking+Limits+💻;Always+Learning+🚀" alt="Animated Typing"/>
 </p>
 
 ---
 
 ### 🧑‍💻 **About Me**  
-- 🚀 Self-taught developer & cybersecurity learner  
+-🏫 Currently studying
+- 🚀 Aspiring developer & cybersecurity learner  
 - 💻 Passionate about ethical hacking & problem solving  
 - 🔥 Breaking, building & perfecting systems  
 - 🌍 Exploring security tools, exploits & open source  
@@ -84,3 +85,6 @@
 ![Hacker Footer](https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=footer&text=System+Secure+%7C+Code+Active&fontSize=20&fontColor=000000)
 
   
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Hacker+Mono&size=38&duration=8000&color=00FF00&center=true&vCenter=true&width=800&lines=Thanks+For+viewing+my+profile+;Have+a+nice+day" alt="Animated Typing"/>
+</p>
