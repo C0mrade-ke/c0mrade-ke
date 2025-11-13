@@ -13,7 +13,7 @@
 - 🚀 Aspiring developer & cybersecurity learner  
 - 💻 Passionate about ethical hacking & problem solving  
 - 🔥 Breaking, building & perfecting systems  
-- 🌍 Exploring security tools, exploits & open source  
+- 🌍 Exploring security tools, exploits & open  source
 
 ---
 
