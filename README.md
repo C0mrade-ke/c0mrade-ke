@@ -4,8 +4,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Anonymous+Pro+&size=28&duration=6600&color=00FF00&center=true&vCenter=true&width=800&lines=Hello+there+👋+☻+;I'm+c0mrade+;+Aspiring+Developer+ツ+⚡;Cyber+Security+Enthusiast+🔐;Breaking+Limits+💻;Always+Learning+🚀" alt="Animated Typing"/>
 </p>
-
-
+<p align="center">  
+"I was here
 ---
 
 ### 🧑‍💻 **About Me**  
