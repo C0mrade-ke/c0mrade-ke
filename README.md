@@ -4,9 +4,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Anonymous+Pro+&size=28&duration=6600&color=00FF00&center=true&vCenter=true&width=800&lines=Hello+there+👋+☻+;I'm+c0mrade+;Ethical+Hacker+;Cyber+Security+Enthusiast+🔐;Breaking+Limits+💻;Always+Learning+🚀" alt="Animated Typing"/>
 </p>
-<p align="center">  
-"I was here before you noticed, and gone before you realized."
-  </p>
+
+<p align="center">
+  <span style="color:#880808;">"Unseen. Unheard. Unmatched"</span>
+</p>
+
+
 
  ---
 
