@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Anonymous+Pro+&size=28&duration=6600&color=00FF00&center=true&vCenter=true&width=800&lines=Hello+there+👋+☻+;I'm+c0mrade+;Ethical+Hacker+;Cyber+Security+Enthusiast+🔐;Breaking+Limits+💻;Always+Learning+🚀" alt="Animated Typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&+&size=33&duration=6600&color=00FF00&center=true&vCenter=true&width=800&lines=Hello+there+👋+☻+;I'm+c0mrade+;Ethical+Hacker+;Cyber+Security+Enthusiast+🔐;Breaking+Limits+💻;Always+Learning+🚀" alt="Animated Typing"/>
 </p>
 
 <p align="center">
@@ -92,7 +92,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Hacker+Mono&size=21&duration=8000&color=F5F5DC&center=true&vCenter=true&width=800&lines=Thanks+For+checking+out+my+profile+;Have+a+nice+day+🤍" alt="Animated Typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&+Mono&size=21&duration=8000&color=F5F5DC&center=true&vCenter=true&width=800&lines=Thanks+For+checking+out+my+profile+;Have+a+nice+day+🤍" alt="Animated Typing"/>
 </p>
 
 ![Hacker Footer](https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=footer&text=System+Secure+%7C+Code+Active&fontSize=20&fontColor=000000)
