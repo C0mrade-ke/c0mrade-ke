@@ -5,9 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&+&size=33&duration=6600&color=00FF00&center=true&vCenter=true&width=800&lines=Hello+there+👋+☻+;I'm+c0mrade+;Ethical+Hacker+;Cyber+Security+Enthusiast+🔐;Breaking+Limits+💻;Always+Learning+🚀" alt="Animated Typing"/>
 </p>
 
-<p align="center">
-  <span style="color:#880808;">"Unseen. Unheard. Unmatched"</span>
-</p>
+
 
 
 
@@ -23,12 +21,18 @@
 ---
 
 ### 📊 **My GitHub Stats**  
-  ![c0mrade's GitHub stats](https://github-readme-stats.vercel.app/api?username=c0mrade-Ke&show_icons=true&theme=gruvbox)
+  ![c0mrade's GitHub stats](https://github-readme-stats.vercel.app/api?username=c0mrade-Ke&show_icons=true&theme=gruvbox)     <p align="center">
+  <span style="color:#880808;">"Unseen. Unheard. Unmatched"</span>
+</p>                                                  
 </p>
 
 ---
-  ![profileViews](https://en3zcgi7b3erui3.m.pipedream.net/?username=c0mrade-Ke)         
----
+  ![profileViews](https://en3zcgi7b3erui3.m.pipedream.net/?username=c0mrade-Ke)    
+
+
+
+  ---
+
 ### 🛠️ **Cybersecurity Tech Stack**  
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
