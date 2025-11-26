@@ -30,9 +30,8 @@
   ![profileViews](https://en3zcgi7b3erui3.m.pipedream.net/?username=c0mrade-Ke)    
 
 
-
   ---
-
+  
 ### 🛠️ **Cybersecurity Tech Stack**  
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -90,6 +89,14 @@
 </p>
 
 ---
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=c0mrade-Ke)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+  ---
+
 <p align="center">  
    <strong>⚡ Breaking limits .♛c0mrade-ke. ⚡</strong>  
 </p>
