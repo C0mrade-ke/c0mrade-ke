@@ -21,10 +21,7 @@
 ---
 
 ### 📊 **My GitHub Stats**  
-  ![c0mrade's GitHub stats](https://github-readme-stats.vercel.app/api?username=c0mrade-Ke&show_icons=true&theme=gruvbox)     <p align="center">
-  <span style="color:#880808;">"Unseen. Unheard. Unmatched"</span>
-</p>                                                  
-</p>
+  ![c0mrade's GitHub stats](https://github-readme-stats.vercel.app/api?username=c0mrade-Ke&show_icons=true&theme=gruvbox)    
 
 ---
   ![profileViews](https://en3zcgi7b3erui3.m.pipedream.net/?username=c0mrade-Ke)    
@@ -99,6 +96,10 @@
 
 <p align="center">  
    <strong>⚡ Breaking limits .♛c0mrade-ke. ⚡</strong>  
+</p>
+ <p align="center">
+  <span style="color:#880808;">"Unseen. Unheard. Unmatched"</span>
+</p>                                                  
 </p>
 
 
