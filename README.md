@@ -1,7 +1,5 @@
 ### 👾 Welcome, I’m c0mrade-ke ♛
 
-
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&+&size=33&duration=6600&color=00FF00&center=true&vCenter=true&width=800&lines=Hello+there+👋+☻+;I'm+c0mrade+;Ethical+Hacker+;Cyber+Security+Enthusiast+🔐;Breaking+Limits+💻;Always+Learning+🚀" alt="Animated Typing"/>
 </p>
@@ -83,7 +81,7 @@
 ### 🔗 **Connect With Me**  
 <p align="center">
   <a href="https://twitter.com/___C0mrade" target="_blank">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="100">
+ <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100">
   </a>
   <a href="https://www.instagram.com/mweshimiwa_.ke?igsh=MWpoYXU2YjFxZXN1Mg==" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100">
