@@ -8,7 +8,8 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="280">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="260"/>
+   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="260"/>
+
 </p>
 
 
@@ -59,25 +60,6 @@
 
 ---
 
-### 🔥 **Cyber Snake - Live Attack Simulation**  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/c0mrade-ke/c0mrade-ke/output/github-contribution-grid-snake.svg" alt="cyber snake" />
-</p>
-
-
-
-
----
-
-### 🎵 **Now Playing**  
-<p align="center">
-  <a href="https://open.spotify.com/playlist/3Opwx6er4kIzNTg1v5IpP3">
-    <img src="https://spotify-now-playing-readme.vercel.app/api/spotify?background_color=000000&border_color=00ff00&text_color=00ff00" alt="Spotify Now Playing"/>
-  </a>
-</p>
-
----
-
 ### 🔗 **Connect With Me**  
 <p align="center">
   <a href="https://twitter.com/___C0mrade" target="_blank">
@@ -93,6 +75,23 @@
 
 ---
 
+
+### 🎵 **Now Playing**  
+<p align="center">
+  <a href="https://open.spotify.com/playlist/3Opwx6er4kIzNTg1v5IpP3">
+    <img src="https://spotify-now-playing-readme.vercel.app/api/spotify?background_color=000000&border_color=00ff00&text_color=00ff00" alt="Spotify Now Playing"/>
+  </a>
+</p>
+
+---
+### 🎮 ₊˚.🎧 ✩｡☕ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="700">
+<br><br>
+
+---
+###  Achievements 🏆🏆
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=c0mrade-Ke)](https://github.com/ryo-ma/github-profile-trophy)
 
