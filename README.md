@@ -1,9 +1,17 @@
 ### 👾 Welcome, I’m c0mrade-ke ♛
 
 
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&+&size=33&duration=6600&color=00FF00&center=true&vCenter=true&width=800&lines=Hello+there+👋+☻+;I'm+c0mrade+;Ethical+Hacker+;Cyber+Security+Enthusiast+🔐;Breaking+Limits+💻;Always+Learning+🚀" alt="Animated Typing"/>
 </p>
+<p align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="280">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="280"/>
+</p>
+
 
 
 
@@ -74,13 +82,13 @@
 ### 🔗 **Connect With Me**  
 <p align="center">
   <a href="https://twitter.com/___C0mrade" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="100">
   </a>
   <a href="https://www.instagram.com/mweshimiwa_.ke?igsh=MWpoYXU2YjFxZXN1Mg==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram%20(1)-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100">
   </a>
   <a href="https://www.instagram.com/3lviss_._?igsh=bHN6cjFuOXg4bmNl" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram%20(2)-C13584?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100">
   </a>
 </p>
 
