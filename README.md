@@ -65,7 +65,7 @@
 
 ### 🔗 **Connect With Me**  
 <p align="center">
-  <a href="https://twitter.com/___C0mrade" target="_blank">
+  <a href="https://twitter.com/cyb3r_ch13f" target="_blank">
  <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100">
   </a>
   <a href="https://www.instagram.com/mweshimiwa_.ke?igsh=MWpoYXU2YjFxZXN1Mg==" target="_blank">
