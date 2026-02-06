@@ -93,8 +93,7 @@
 ---
 ###  Achievements 🏆🏆
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=c0mrade-Ke)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=c0mrade-Ke-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
   ---
