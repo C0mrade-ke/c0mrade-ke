@@ -31,8 +31,11 @@
 ![c0mrade's GitHub stats](https://github-readme-stats.vercel.app/api?username=c0mrade-Ke&show_icons=true&theme=gruvbox)
 ---
   ![profileViews](https://en3zcgi7b3erui3.m.pipedream.net/?username=c0mrade-Ke)    
-
-
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=c0mrade-Ke &layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
+  
+ 
+  
   ---
   
 ### 🛠️ **Cybersecurity Tech Stack**  
@@ -90,11 +93,10 @@
 <br><br>
 
 ---
-###  Achievements 🏆🏆
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=c0mrade-Ke-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+ 
+  
+  
   ---
 
 <p align="center">  
