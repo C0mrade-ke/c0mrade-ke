@@ -33,8 +33,8 @@
 ---
   ![profileViews](https://en3zcgi7b3erui3.m.pipedream.net/?username=c0mrade-Ke)    
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=c0mrade-Ke &layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
-  
+
+   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=C0mrade-ke&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" />
  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=C0mrade-ke&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
   
   ---
