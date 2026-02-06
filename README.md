@@ -1,5 +1,6 @@
 ### 👾 Welcome, I’m c0mrade-ke ♛
 
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&+&size=33&duration=6600&color=00FF00&center=true&vCenter=true&width=800&lines=Hello+there+👋+☻+;I'm+c0mrade+;Ethical+Hacker+;Cyber+Security+Enthusiast+🔐;Breaking+Limits+💻;Always+Learning+🚀" alt="Animated Typing"/>
 </p>
@@ -34,7 +35,7 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=c0mrade-Ke &layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
   
- 
+ <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=C0mrade-ke&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
   
   ---
   
