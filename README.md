@@ -1,4 +1,4 @@
-### 👾 Welcome, I’m c0mrade-ke ♛
+### 👾 Welcome, I’m  c₀ₘᵣ₄d₃ ♛
 
 
 <p align="center">
