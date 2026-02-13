@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&+&size=33&duration=6600&color=00FF00&center=true&vCenter=true&width=800&lines=Hello+there+👋+☻+;I'm+c0mrade+;Ethical+Hacker+;Cyber+Security+Enthusiast+🔐;Breaking+Limits+💻;Always+Learning+🚀" alt="Animated Typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&+&size=33&duration=6600&color=00FF00&center=true&vCenter=true&width=800&lines=Hello+there+👋+☻+;Welcome+to+my+profile+;I'm+c0mrade+;Cyber+Security+Enthusiast+;+Ethical+Hacker;Breaking+Limits+;Always+Learning+🚀" alt="Animated Typing"/>
 </p>
  
  <p align="center">
@@ -20,11 +20,11 @@
  ---
 
 ### 🧑‍💻 **About Me**  
-- 🏫 Currently studying
-- 🚀 Aspiring developer & cybersecurity learner  
-- 💻 Passionate about ethical hacking & problem solving  
-- 🔥 Breaking, building & perfecting systems  
-- 🌍 Exploring security tools, exploits & open  source
+-  Currently studying
+-  Aspiring developer & cybersecurity learner  
+-  Passionate about ethical hacking & problem solving  
+-  Breaking, building & perfecting systems  
+-  Exploring security tools
 
 ---
 
@@ -39,7 +39,7 @@
   
   ---
   
-### 🛠️ **Cybersecurity Tech Stack**  
+###  **Tech Stack**  
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
