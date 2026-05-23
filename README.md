@@ -2,14 +2,14 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&+&size=33&duration=6600&color=00FF00&center=true&vCenter=true&width=800&lines=Hello+there+👋+☻+;Welcome+to+my+profile+;I'm+c0mrade+;Cyber+Security+Enthusiast+;bug+hunter+;security+reseacher+;Ethical+Hacker;Breaking+Limits+;Always+Learning+🚀" alt="Animated Typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&+&size=33&duration=6600&color=00FF00&center=true&vCenter=true&width=800&lines=Hello+there+👋+☻+;Welcome+to+my+profile+;I'm+c0mrade+;Cyber+Security+Enthusiast+;bug+hunter+;security+reseacher+;Breaking+Limits+;Always+Learning+🚀" alt="Animated Typing"/>
 </p>
  
  <p align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="280">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
-<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="260" alt="Hacking"/>
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="400">
+ 
+<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="400" alt="Hacking"/>
 </p>
 
 
@@ -26,10 +26,6 @@
 -  Breaking, building & perfecting systems  
 -  Exploring security tools
 
----
-
-### 📊 **My GitHub Stats**  
-![c0mrade's GitHub stats](https://github-readme-stats.vercel.app/api?username=c0mrade-Ke&show_icons=true&theme=gruvbox)
 ---
   ![profileViews](https://en3zcgi7b3erui3.m.pipedream.net/?username=c0mrade-Ke)    
 <div align="center">
