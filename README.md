@@ -1,30 +1,18 @@
-### 👾 Welcome, I’m  c₀ₘᵣ₄d₃ ♛
+### 👾 Welcome
 
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&+&size=33&duration=6600&color=00FF00&center=true&vCenter=true&width=800&lines=Hello+there+👋+☻+;Welcome+to+my+profile+;I'm+c0mrade+;Cyber+Security+Enthusiast+;bug+hunter+;security+reseacher+;Breaking+Limits+;Always+Learning+🚀" alt="Animated Typing"/>
-</p>
- 
- <p align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="400">
- 
-<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="400" alt="Hacking"/>
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3500&pause=500&color=00FF41&center=true&vCenter=true&width=600&lines=%24+whoami;c0mr4d3+♛;bug+bounty+hunter" alt="Typing SVG">
+</h1>
 
 
 
+###  **About Me**  
 
+```Web application pentester. Bug bounty hunter. Tool builder```
 
-
- ---
-
-### 🧑‍💻 **About Me**  
--  Currently studying
--  Aspiring developer & cybersecurity learner  
--  Passionate about ethical hacking & problem solving  
--  Breaking, building & perfecting systems  
--  Exploring security tools
+I specialize in finding and exploiting vulnerabilities in
+web applications and APIs reliably detect. 
+I also develop custom tooling that help in bug hunting 
 
 ---
   ![profileViews](https://en3zcgi7b3erui3.m.pipedream.net/?username=c0mrade-Ke)    
@@ -83,13 +71,7 @@
 </p>
 
 ---
-### 🎮 ₊˚.🎧 ✩｡☕ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="700">
-<br><br>
 
----
 
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/C0mrade-ke/C0mrade-ke/output/github-contribution-grid-snake-dark.svg">
@@ -101,7 +83,7 @@
   ---
 
 <p align="center">  
-   <strong>⚡ Breaking limits .♛c0mrade-ke. ⚡</strong>  
+   <strong>⚡ Breaking limits .♛c0mr4d3-ke. ⚡</strong>  
 </p>
  <p align="center">
   <span style="color:#880808;">"Unseen. Unheard. Unmatched"</span>
@@ -112,7 +94,5 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&+Mono&size=21&duration=8000&color=F5F5DC&center=true&vCenter=true&width=800&lines=Thanks+For+checking+out+my+profile+;Have+a+nice+day+🤍" alt="Animated Typing"/>
 </p>
-
-![Hacker Footer](https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=footer&text=System+Secure+%7C+Code+Active&fontSize=20&fontColor=000000)
 
   
