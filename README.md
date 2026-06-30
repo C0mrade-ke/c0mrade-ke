@@ -7,7 +7,7 @@
 
 
 ###  **About Me**  
-
+ 
 ```Web application pentester. Bug bounty hunter. Tool builder```
 
 I specialize in finding and exploiting vulnerabilities in
@@ -23,13 +23,24 @@ I also develop custom tooling that help in bug hunting
   
   ---
   
-###  **Tech Stack**  
+### **Tech Stack**
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+
 </p>
 
 ---
@@ -47,17 +58,31 @@ I also develop custom tooling that help in bug hunting
 
 ---
 
+### **BBPs**
+<p align="center">
+
+<img src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white" />
+<img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white" />
+<img src="https://img.shields.io/badge/Intigriti-161A36?style=for-the-badge&logo=intigriti&logoColor=white" />
+<img src="https://img.shields.io/badge/YesWeHack-FFCD00?style=for-the-badge&logoColor=black" />
+
+</p>
+
+---
+
 ### 🔗 **Connect With Me**  
 <p align="center">
-  <a href="https://twitter.com/cyb3r_ch13f" target="_blank">
- <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100">
-  </a>
-  <a href="https://www.instagram.com/mweshimiwa_.ke?igsh=MWpoYXU2YjFxZXN1Mg==" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100">
-  </a>
-  <a href="https://www.instagram.com/3lviss_._?igsh=bHN6cjFuOXg4bmNl" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100">
-  </a>
+
+<a href="https://www.linkedin.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" height="42"/> </a> &nbsp;&nbsp;
+<a href="https://x.com/The_wikendii" target="_blank"> <img src="https://cdn.simpleicons.org/x/ffffff" height="42"/> </a> &nbsp;&nbsp;
+<a href="mailto:shieldcorekenya@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="42"/> </a> &nbsp;&nbsp;
+<a href="https://discord.com/users/YOUR_ID" target="_blank"> <img src="https://skillicons.dev/icons?i=discord" height="42"/> </a> &nbsp;&nbsp;
+<a href="https://t.me/YOUR_USERNAME" target="_blank"> <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="42"/> </a> &nbsp;&nbsp;
+<a href="https://instagram.com/mweshimiwa_.ke" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram" height="42"/> </a>
+</p>
+
+<p align="center">
+  <strong>connect · collaborate </strong>
 </p>
 
 ---
@@ -69,6 +94,7 @@ I also develop custom tooling that help in bug hunting
     <img src="https://spotify-now-playing-readme.vercel.app/api/spotify?background_color=000000&border_color=00ff00&text_color=00ff00" alt="Spotify Now Playing"/>
   </a>
 </p>
+
 
 ---
 
@@ -83,14 +109,14 @@ I also develop custom tooling that help in bug hunting
   ---
 
 <p align="center">  
-   <strong>⚡ Breaking limits .♛c0mr4d3-ke. ⚡</strong>  
+   <strong>⚡ Breaking limits  ⚡</strong>  
 </p>
  <p align="center">
   <span style="color:#880808;">"Unseen. Unheard. Unmatched"</span>
 </p>                                                  
 </p>
 
-
+ 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&+Mono&size=21&duration=8000&color=F5F5DC&center=true&vCenter=true&width=800&lines=Thanks+For+checking+out+my+profile+;Have+a+nice+day+🤍" alt="Animated Typing"/>
 </p>
