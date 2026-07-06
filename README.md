@@ -1,4 +1,4 @@
-### 👾 Welcome
+### 👾 Ahoy there!
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3500&pause=500&color=00FF41&center=true&vCenter=true&width=600&lines=%24+whoami;c0mr4d3+♛;bug+bounty+hunter" alt="Typing SVG">
@@ -72,31 +72,63 @@ I also develop custom tooling that help in bug hunting
 
 
 ### **BBPs**
-<p align="center">
 
-<img src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white" />
-<img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white" />
-<img src="https://img.shields.io/badge/Intigriti-161A36?style=for-the-badge&logo=intigriti&logoColor=white" />
-<img src="https://img.shields.io/badge/YesWeHack-FFCD00?style=for-the-badge&logoColor=black" />
+<div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+  <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <img src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&color=000000" alt="HackerOne" />
+    <img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&color=000000" alt="Bugcrowd" />
+    <img src="https://img.shields.io/badge/Intigriti-161A36?style=for-the-badge&logo=intigriti&color=000000" alt="Intigriti" />
+    <img src="https://img.shields.io/badge/YesWeHack-FFCD00?style=for-the-badge&logoColor=black&color=000000" alt="YesWeHack" />
 
-</p>
+  </div>
+</div>
 
 ---
 
-### 🔗 **Connect With Me**  
-<p align="center">
+### **Connect With Me**
 
-<a href="https://www.linkedin.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" height="42"/> </a> &nbsp;&nbsp;
-<a href="https://x.com/The_wikendii" target="_blank"> <img src="https://cdn.simpleicons.org/x/ffffff" height="42"/> </a> &nbsp;&nbsp;
-<a href="mailto:shieldcorekenya@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="42"/> </a> &nbsp;&nbsp;
-<a href="https://discord.com/users/YOUR_ID" target="_blank"> <img src="https://skillicons.dev/icons?i=discord" height="42"/> </a> &nbsp;&nbsp;
-<a href="https://t.me/YOUR_USERNAME" target="_blank"> <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="42"/> </a> &nbsp;&nbsp;
-<a href="https://instagram.com/mweshimiwa_.ke" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram" height="42"/> </a>
-</p>
+<br>
 
-<p align="center">
-  <strong>connect · collaborate </strong>
-</p>
+<div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+
+<div align="center">
+
+<a href="https://www.linkedin.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="48" style="background:#000;padding:8px;border-radius:10px;" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://x.com/The_wikendii" target="_blank">
+  <img src="https://cdn.simpleicons.org/x/ffffff" height="48" style="background:#000;padding:8px;border-radius:10px;" alt="X"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="mailto:shieldcorekenya@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="48" style="background:#000;padding:8px;border-radius:10px;" alt="Gmail"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://discord.com/users/YOUR_ID" target="_blank">
+  <img src="https://skillicons.dev/icons?i=discord" height="48" style="background:#000;padding:8px;border-radius:10px;" alt="Discord"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://t.me/YOUR_USERNAME" target="_blank">
+  <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="48" style="background:#000;padding:8px;border-radius:10px;" alt="Telegram"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://instagram.com/mweshimiwa_.ke" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" height="48" style="background:#000;padding:8px;border-radius:10px;" alt="Instagram"/>
+</a>
+
+<br><br>
+
+<strong>Open to Collaboration • Security Research</strong>
+
+</div>
+
+</div>
 
 ---
 
