@@ -1,7 +1,7 @@
-### 👾 Ahoy there!
+###  Ahoy there!
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3500&pause=500&color=00FF41&center=true&vCenter=true&width=600&lines=%24+whoami;c0mr4d3+♛;bug+bounty+hunter" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3500&pause=500&color=00FF41&center=true&vCenter=true&width=600&lines=%24+whoami;c0mr4d3+♛;bug+bounty+hunter;Penetration+tester" alt="Typing SVG">
 </h1>
 
 
