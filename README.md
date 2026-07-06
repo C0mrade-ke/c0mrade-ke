@@ -108,12 +108,12 @@ I also develop custom tooling that help in bug hunting
 </a>
 &nbsp;&nbsp;
 
-<a href="https://discord.com/users/YOUR_ID" target="_blank">
+<a href="https://discord.com/users/" target="_blank">
   <img src="https://skillicons.dev/icons?i=discord" height="48" style="background:#000;padding:8px;border-radius:10px;" alt="Discord"/>
 </a>
 &nbsp;&nbsp;
 
-<a href="https://t.me/YOUR_USERNAME" target="_blank">
+<a href="https://t.me/n" target="_blank">
   <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="48" style="background:#000;padding:8px;border-radius:10px;" alt="Telegram"/>
 </a>
 &nbsp;&nbsp;
