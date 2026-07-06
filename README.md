@@ -14,13 +14,6 @@ I specialize in finding and exploiting vulnerabilities in
 web applications and APIs reliably detect. 
 I also develop custom tooling that help in bug hunting 
 
----
-  ![profileViews](https://en3zcgi7b3erui3.m.pipedream.net/?username=c0mrade-Ke)    
-<div align="center">
-
-   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=C0mrade-ke&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" />
- <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=C0mrade-ke&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
-  
   ---
   
 ### **Tech Stack**
@@ -130,8 +123,15 @@ I also develop custom tooling that help in bug hunting
 
 </div>
 
----
 
+---
+  ![profileViews](https://en3zcgi7b3erui3.m.pipedream.net/?username=c0mrade-Ke)    
+<div align="center">
+
+   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=C0mrade-ke&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" />
+ <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=C0mrade-ke&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
+
+  ---
 
 ### 🎵 **Now Playing**  
 <p align="center">
@@ -156,14 +156,9 @@ I also develop custom tooling that help in bug hunting
 <p align="center">  
    <strong>⚡ Breaking limits  ⚡</strong>  
 </p>
- <p align="center">
-  <span style="color:#880808;">"Unseen. Unheard. Unmatched"</span>
-</p>                                                  
-</p>
-
- 
+                                                
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&+Mono&size=21&duration=8000&color=F5F5DC&center=true&vCenter=true&width=800&lines=Thanks+For+checking+out+my+profile+;Have+a+nice+day+🤍" alt="Animated Typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&+Mono&size=19&duration=8000&color=F5F5DC&center=true&vCenter=true&width=800&lines=Thanks+For+checking+out+my+profile+;Have+a+nice+day+🤍" alt="Animated Typing"/>
 </p>
 
   
