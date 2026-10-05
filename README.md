@@ -133,7 +133,7 @@ I also develop custom tooling that help in bug hunting
 
   ---
 
-### 🎵 **Now Playing**  
+###  **Now Playing**  
 <p align="center">
   <a href="https://open.spotify.com/playlist/3Opwx6er4kIzNTg1v5IpP3">
     <img src="https://spotify-now-playing-readme.vercel.app/api/spotify?background_color=000000&border_color=00ff00&text_color=00ff00" alt="Spotify Now Playing"/>
@@ -154,7 +154,7 @@ I also develop custom tooling that help in bug hunting
   ---
 
 <p align="center">  
-   <strong>⚡ Breaking limits  ⚡</strong>  
+   <strong> Breaking limits  </strong>  
 </p>
                                                 
 <p align="center">
